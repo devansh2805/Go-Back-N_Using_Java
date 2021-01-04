@@ -1,5 +1,4 @@
 # Implementation of the Go-Back-N ARQ Algorithm
-![GitHub repo size](https://img.shields.io/github/repo-size/devansh2805/Go-Back-N_Using_Java?style=plastic)
 [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/devansh2805) [![Documentation](https://img.shields.io/badge/Documentation%3F-yes-green.svg)](https://github.com/devansh2805)  
 [![forthebadge made-with-java](http://ForTheBadge.com/images/badges/made-with-java.svg)](https://www.java.com/en/)
   
